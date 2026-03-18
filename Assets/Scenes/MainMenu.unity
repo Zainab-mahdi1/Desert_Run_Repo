@@ -1014,9 +1014,9 @@ MonoBehaviour:
   loadedCoin: 0
   loadedGem: 0
   loadedDistance: 0
-  coinDisplay: {fileID: 0}
-  gemDisplay: {fileID: 0}
-  distanceDisplay: {fileID: 0}
+  coinDisplay: {fileID: 79027112}
+  gemDisplay: {fileID: 1907755468}
+  distanceDisplay: {fileID: 1589749911}
 --- !u!4 &160033171 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4508970561002598, guid: 21cba551342e0284a87bcb1672a662d2, type: 3}
@@ -5085,7 +5085,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -850.04987, y: 434.12726}
+  m_AnchoredPosition: {x: -850.05, y: 493.43}
   m_SizeDelta: {x: 63.049, y: 50.004}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1046868994
@@ -6416,7 +6416,6 @@ MonoBehaviour:
   m_DeselectOnBackgroundClick: 1
   m_PointerBehavior: 0
   m_CursorLockBehavior: 0
-  m_ScrollDeltaPerTick: 6
 --- !u!114 &1322018564
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7506,9 +7505,9 @@ RectTransform:
   - {fileID: 825554699}
   - {fileID: 543212275}
   - {fileID: 2116119289}
-  - {fileID: 1200683595}
   - {fileID: 1046868993}
   - {fileID: 1046218871}
+  - {fileID: 1200683595}
   - {fileID: 1907755469}
   - {fileID: 79027113}
   - {fileID: 1829408849}
@@ -8815,7 +8814,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -850.05145, y: 347.00507}
+  m_AnchoredPosition: {x: -850.05, y: 406.31}
   m_SizeDelta: {x: 50, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1829408850
@@ -10181,7 +10180,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -850.05145, y: 522.0912}
+  m_AnchoredPosition: {x: -850.98, y: 581.39}
   m_SizeDelta: {x: 51.851, y: 49.999}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2116119290

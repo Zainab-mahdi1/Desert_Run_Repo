@@ -1,11 +1,12 @@
+using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 #if UNITY_EDITOR
 using TMPro.EditorUtilities;
 using UnityEditor;
 using UnityEditor.ShaderKeywordFilter;
 #endif
-using UnityEngine;
-using UnityEngine.SceneManagement;
 public class MainMenuControl : MonoBehaviour
 {
     [SerializeField] GameObject fadeOut;

@@ -5012,7 +5012,6 @@ MonoBehaviour:
   m_DeselectOnBackgroundClick: 1
   m_PointerBehavior: 0
   m_CursorLockBehavior: 0
-  m_ScrollDeltaPerTick: 6
 --- !u!114 &618340734
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7841,7 +7840,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -807.88, y: 329.79}
+  m_AnchoredPosition: {x: -773.53, y: 357.3}
   m_SizeDelta: {x: 50, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &887745611
@@ -11277,7 +11276,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -807.8785, y: 412.58997}
+  m_AnchoredPosition: {x: -772.55, y: 440.1}
   m_SizeDelta: {x: 63.049, y: 50.004}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1454155108
@@ -12597,7 +12596,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -807.88, y: 496.19}
+  m_AnchoredPosition: {x: -772.6, y: 523.7}
   m_SizeDelta: {x: 51.851, y: 49.999}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1676202860
@@ -13854,7 +13853,7 @@ MonoBehaviour:
   m_ActionEvents: []
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
-  m_DefaultActionMap: 
+  m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
 --- !u!4 &1782964478 stripped
